@@ -4,8 +4,8 @@ var PLUGIN_INFO = xml`
   <name>qrcode generatero</name>
   <description>Get a qr code for the url/clipboard</description>
   <version>2.1.2</version>
-  <author mail="jamgade10@gmail.com" homepage="http://noting.com/nokturnalmortum/">anekos</author>
-  <license>Please read the source code comments of this plugin</license>
+  <author mail="hatespam-nthforloop@yahoo.com">nthforloop</author>
+  <license>Check repo htt</license>
   <detail lang='ja'><![CDATA[
     == Commands ==
       :qr
