@@ -14,6 +14,7 @@ Install
 ```bash
 
     mkdir -p ~/.vimperator/plugin/
+    cd ~/.vimperator/plugin/
     wget https://github.com/nthforloop/qr-vimper/blob/master/qrcode.js
 ```
 
