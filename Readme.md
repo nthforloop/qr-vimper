@@ -15,7 +15,7 @@ Install
 
     mkdir -p ~/.vimperator/plugin/
     cd ~/.vimperator/plugin/
-    wget https://github.com/nthforloop/qr-vimper/blob/master/qrcode.js
+    wget https://raw.githubusercontent.com/nthforloop/qr-vimper/master/qrcode.js
 ```
 
     restart vimperator (browser)
